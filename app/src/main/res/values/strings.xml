@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Light</string>
+    <string name="service_description">Detects when a WhatsApp call screen opens and shows a floating ON/OFF button. The app also draws a white light strip on part of the screen. It does not read or store any call, chat or screen content.</string>
+</resources>
